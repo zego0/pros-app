@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pros-app/static/css/main.71ac720c.chunk.css",
+    "main.js": "/pros-app/static/js/main.cee24de3.chunk.js",
+    "main.js.map": "/pros-app/static/js/main.cee24de3.chunk.js.map",
+    "runtime-main.js": "/pros-app/static/js/runtime-main.5737cdf7.js",
+    "runtime-main.js.map": "/pros-app/static/js/runtime-main.5737cdf7.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/pros-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.13036645.chunk.js": "/pros-app/static/js/2.13036645.chunk.js",
+    "static/js/2.13036645.chunk.js.map": "/pros-app/static/js/2.13036645.chunk.js.map",
+    "index.html": "/pros-app/index.html",
+    "precache-manifest.d816deb5d94206154966009b046e24fb.js": "/pros-app/precache-manifest.d816deb5d94206154966009b046e24fb.js",
+    "service-worker.js": "/pros-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/pros-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.71ac720c.chunk.css.map": "/pros-app/static/css/main.71ac720c.chunk.css.map",
+    "static/js/2.13036645.chunk.js.LICENSE.txt": "/pros-app/static/js/2.13036645.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5737cdf7.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.13036645.chunk.js",
+    "static/css/main.71ac720c.chunk.css",
+    "static/js/main.cee24de3.chunk.js"
+  ]
+}
