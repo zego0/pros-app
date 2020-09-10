@@ -1,0 +1,10 @@
+.layout{
+  height: 80%;
+  width: 80%;
+  align-items: center;
+  margin-left: 10%;
+}
+.logo{
+  height: 70px;
+  width: 140px;
+}
